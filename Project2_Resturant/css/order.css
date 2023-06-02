@@ -101,7 +101,11 @@ body{
     background-image: url(/imgs/dinnericon.jpg);
 }.list-toggler .icon4{
     background-image: url(/imgs/desserticon.jpg);
+    border-left: 1px solid var(--BlackBackground);
+
 }
+
+
 
 
 .menuSction .container .card{
