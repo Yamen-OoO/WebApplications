@@ -1,0 +1,5 @@
+1) NavBar
+2) Footer
+3) nav on scroll hidding
+4) go to top button
+5) counter section
