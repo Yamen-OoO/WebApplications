@@ -22,3 +22,6 @@
         }
     }
 })()
+// fix the arraies 
+// change the background colors
+// change from img number to img element .. the design of chefs section
